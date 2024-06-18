@@ -1,3 +1,5 @@
+"use client"
+
 import React from "react";
 import { useDataGrid, List } from "@refinedev/mui";
 import { DataGrid, GridColDef } from "@mui/x-data-grid";
